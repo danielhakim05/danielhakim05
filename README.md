@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @danielhakim05
-- 🌱 I’m currently learning all built in function in python
+Hi! I'm Muhammad Daniel Hakim bin Zulmaizan. I'm currently studying Bachelor of Science Education (Hons.) Mathematics in Univeriti Teknologi MARA (UiTM) Puncak Alam.
 
 <!---
 danielhakim05/danielhakim05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
